@@ -1,0 +1,12 @@
+.custom-control-input {
+  box-shadow:none;
+}
+.correct {
+  background: rgba(111, 146, 243, 0.425);
+  color: rgb(40, 57, 131);
+}
+
+.incorrect {
+  background: rgba(250, 72, 72, 0.452);
+  color: red;
+}
